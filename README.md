@@ -133,10 +133,10 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![OUTPUT](./output1.png)
-### Home Page:
+![OUTPUT](./images/output1.png)
 
-![OUTPUT](./output2.png)
+### Home Page:
+![OUTPUT](./images/output2.png)
 
 
 ## Result:
